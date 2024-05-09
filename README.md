@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-My name's Matthew and I'm a full stack web developer (and occasional mobile developer).
+My name's Matthew Daly and I'm a full stack web developer (and occasional mobile developer) in the UK.
+
+I can be found on Mastodon at [https://mstdn.social/@matthewbdaly](https://mstdn.social/@matthewbdaly) and on my blog at [https://matthewdaly.co.uk/](https://matthewdaly.co.uk/).
+
+I'm also the founder of [High Performance Laravel](https://www.highperformancelaravel.com/), a resource for helping Laravel developers understand the real reasons why their applications are slow.
 
 I have worked with the following technologies, among others:
 
@@ -25,6 +29,7 @@ I have worked with the following technologies, among others:
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" title="WordPress" />
     <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zend/zend-original-wordmark.svg" alt="Zend" title="Zend" />
 </div>
+
 
 <!--
 **matthewbdaly/matthewbdaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
