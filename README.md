@@ -5,6 +5,8 @@ I have worked with the following technologies, among others:
 
 * <i class="devicon-django-plain-wordmark colored"></i>
 * <i class="devicon-drupal-plain-wordmark colored"></i>
+* <i class="devicon-gatsby-plain-wordmark colored"></i>
+* <i class="devicon-javascript-plain colored"></i>
 * <i class="devicon-laravel-original-wordmark colored"></i>
 * <i class="devicon-mysql-plain-wordmark colored"></i>
 * <i class="devicon-neovim-plain-wordmark colored"></i>
